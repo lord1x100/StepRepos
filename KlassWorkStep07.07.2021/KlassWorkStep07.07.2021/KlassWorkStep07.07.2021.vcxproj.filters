@@ -15,7 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KlassWorkStep07.07.2021.cpp">
+    <ClInclude Include="Mass.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Mass.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayExeption.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

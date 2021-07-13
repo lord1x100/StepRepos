@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="KlassWorkStep07.07.2021.cpp" />
+    <ClInclude Include="Mass.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ArrayExeption.cpp" />
+    <ClCompile Include="Mass.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

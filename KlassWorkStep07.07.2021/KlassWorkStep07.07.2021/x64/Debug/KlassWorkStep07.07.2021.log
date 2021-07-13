@@ -1,0 +1,4 @@
+﻿  ArrayExeption.cpp
+C:\Users\Взрослая академия\Documents\GitMaschenko\KlassWork13.07.2021\KlassWorkStep07.07.2021\KlassWorkStep07.07.2021\ArrayExeption.cpp(8,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Взрослая академия\Documents\GitMaschenko\KlassWork13.07.2021\KlassWorkStep07.07.2021\KlassWorkStep07.07.2021\Mass.h(32): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+  KlassWorkStep07.07.2021.vcxproj -> C:\Users\Взрослая академия\Documents\GitMaschenko\KlassWork13.07.2021\KlassWorkStep07.07.2021\x64\Debug\KlassWorkStep07.07.2021.exe
